@@ -1,2 +1,2 @@
-# presta x sellbox.pl
+# prestashop x sellbox.pl
 Integration prestashop with sellbox.pl
