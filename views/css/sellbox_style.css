@@ -1,0 +1,74 @@
+#sellbox_form table{
+    border: 1px solid #0088cc;
+}
+
+#sellbox_form table:first-child{
+    border-top: none;
+}
+
+#sellbox_form table .exposed td{
+    background: #0088cc;
+    color: #fff;
+}
+
+.sellbox-category-select {
+    max-width: 250px;
+    float: left;
+    margin-right: 20px;
+}
+
+.sellbox-addproduct-select{
+    max-width: 200px;
+    float: left;
+    margin: 0 10px 10px 0 !important;
+}
+
+.item-add-select, .item-add-input, .item-add-custom .checkbox{
+    display: block;
+    float: left;
+    width: 100%;
+    max-width: 250px;
+    margin-right: 10px;
+}
+
+.item-add-custom{
+    float: left;
+    width: 100%;
+}
+
+.item-add-custom label{
+    float: left;
+    width: 100%;
+}
+
+.error-submit {
+    border: 1px solid #ff0000 !important;
+}
+
+.panel .form-wrapper{
+    display: grid;
+}
+
+.bootstrap .btn-default.remove-ad{
+    background: #fff2f2;
+    color: #ff0000;
+    border: 1px solid #ff0000;
+}
+
+.bootstrap .btn-default.remove-ad:hover{
+    background: #ff0000;
+    color: #fff;
+    border: 1px solid #ff0000;
+}
+
+.bootstrap .btn-default.refresh-ad{
+    background: #ddffe4;
+    color: #123305;
+    border: 1px solid #123305;
+}
+
+.bootstrap .btn-default.refresh-ad:hover{
+    background: #123305;
+    color: #fff;
+    border: 1px solid #123305;
+}
